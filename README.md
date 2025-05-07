@@ -15,10 +15,6 @@ This project develops an ensemble deep learning approach for predicting pregnanc
 
 This project requires Python 3.8+ and the following key libraries:
 
-```bash
-pip install -r requirements.txt
-```
-
 Key dependencies include:
 - PyTorch (1.9+)
 - tab_transformer_pytorch 
@@ -36,7 +32,6 @@ Key dependencies include:
 The model training and SHAP analysis were performed on hardware with the following specifications:
 - GPU: NVIDIA A100 (40GB VRAM)
 - Memory: 32GB RAM
-- Storage: 100GB available disk space
 
 For inference only, the hardware requirements are less demanding.
 
@@ -177,7 +172,7 @@ This project uses the following third-party libraries:
 
 ## Contact
 
-Soa39@aber.ac.uk
+imsounic@gmail.com
 
 ## License
 
